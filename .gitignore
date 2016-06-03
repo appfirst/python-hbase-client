@@ -1,0 +1,9 @@
+.idea*
+*.pyc
+*.swp
+*.swo
+*$py.class
+.idea*
+.DS_Store
+common_config/base_config.py
+common_config/config_statsd_format_base.py
